@@ -1,0 +1,4 @@
+the yml file in this folder can be used to set up locally a similar configuration as what was used during the practicals on the course, which used the MAAP platform. 
+
+This YML file is optimized for Unix systems. 
+If a user intends to use it on Windows OS, you may need to make some modifications to eliminate any potential errors caused by certain packages.
